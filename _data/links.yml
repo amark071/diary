@@ -1,0 +1,11 @@
+- name: 个人主页
+  url: https://amark071.github.io/profile/
+  src: life
+
+- name: ChatGPT
+  url: https://chat.openai.com/
+  src: life
+
+- name: Poe
+  url: https://poe.com/
+  src: life
