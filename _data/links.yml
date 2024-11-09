@@ -9,3 +9,7 @@
 - name: Poe
   url: https://poe.com/
   src: life
+
+- name: AI learning blog
+  url: https://amark071.github.io/learnai//
+  src: life

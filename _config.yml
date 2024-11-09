@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://amark071.github.io/learnai/
+url: https://amark071.github.io/diary/
 date_format: "ordinal"
-title: AI LEARNING BLOG
-subtitle: "AI：从入门到入坟"
-description: "AI：从入门到入坟"
-keywords: AI
+title: Dairy for My Life
+subtitle: "Dairy for My Life"
+description: "Dairy for My Life"
+keywords: Dairy
 timezone: Asia/Beijing
 encoding: "utf-8"
 # 页面左下角显示的年份
@@ -63,9 +63,6 @@ navs:
     href: /
     label: 首页
 
-  -
-    href: /categories/
-    label: 分类
   -
     href: /links/
     label: 链接
